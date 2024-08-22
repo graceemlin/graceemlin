@@ -1,5 +1,5 @@
 i am teaching myself cs!
--  currently learning mit/gnu scheme and c
+-  currently studying data structures and algorithms 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=graceemlin&stroke=e7d8b3&starting_year=2024&fire=e7d8b3&ring=e7d8b3&currStreakLabel=000000&background=fefefe)](https://git.io/streak-stats)
 
