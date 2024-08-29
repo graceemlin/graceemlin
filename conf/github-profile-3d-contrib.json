@@ -2,7 +2,7 @@
     {
   "type": "season",
   "fileName": "day.svg",
-  "backgroundColor": "#00000f",
+  "backgroundColor": "#ffffff",
   "foregroundColor": "#00000f",
   "strongColor": "#111133",
   "weakColor": "gray",
