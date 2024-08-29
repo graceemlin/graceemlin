@@ -43,7 +43,7 @@
         "fileName": "night.svg",
         "backgroundColor": "#0d1117",
         "foregroundColor": "#eeeeff",
-        "strongColor": "rgb(255,200,55)",
+        "strongColor": "#4493f8",
         "weakColor": "#aaaaaa",
         "radarColor": "#4493f8",
         "growingAnimation": true,
