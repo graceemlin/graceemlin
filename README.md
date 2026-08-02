@@ -1,8 +1,29 @@
-i am teaching myself cs!
--  currently studying data structures and algorithms 
+i am currently working as a swe!
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=graceemlin&stroke=e7d8b3&starting_year=2024&fire=e7d8b3&ring=e7d8b3&currStreakLabel=000000&background=fefefe)](https://git.io/streak-stats)
-
-[<img src='https://cdn.simpleicons.org/github/e7d8b3' alt='github' height='40'>](https://github.com/graceemlin)
-[<img src='https://cdn.simpleicons.org/leetcode/e7d8b3' alt='leetcode' height='40'>](https://leetcode.com/graceemlin/) 
-[<img src='https://cdn.simpleicons.org/codeforces/e7d8b3' alt='codeforces' height='40'>](https://codeforces.com/profile/graceemlin)
+-  out of gratitude, for each day of this life i have been given, i will study 2 go games. (07.29.2026-)
+    -  days: 4
+    -  go games studied: 5
+    -  hp: -3
+    -  exemptions:
+        -  sick:
+        -  travel to go tournament:
+        -  go tournament:
+-  legacy
+    - 63 3-min goproblems rush (03.17.2024)
+    - 4d 101weiqi leaderboard (03.21.2024)
+    - 5d 101weiqi leaderboard (04.11.2024)
+    - ahead of sumire on 1k 101weiqi leaderboard (09.04.2025)
+    - 101weiqi 15x 50% reclaimed (07.14.2026)
+- advice
+    - cs resources:
+        - teachyourselfcs
+        - codeforces
+        - cses
+        - USACO Guide
+        - pwn.college
+    - go resources:
+        - learn to play go book series (janice kim)
+        - 101weiqi
+        - kifubara
+        - weiqihub
+        - jiseok app
