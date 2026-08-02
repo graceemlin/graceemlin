@@ -17,13 +17,9 @@ i am currently working as a swe!
 - advice
     - cs resources:
         - teachyourselfcs
-        - codeforces
-        - cses
-        - USACO Guide
-        - pwn.college
+        - codeforces/cses/USACO guide
+        - pwn.college/htb
     - go resources:
         - learn to play go book series (janice kim)
-        - 101weiqi
-        - kifubara
-        - weiqihub
-        - jiseok app
+        - 101weiqi website/jiseok go problem app
+        - kifubara website/weiqihub
