@@ -13,9 +13,9 @@ i am currently working as a swe!
     - 4d 101weiqi leaderboard (03.21.2024)
     - 5d 101weiqi leaderboard (04.11.2024)
     - ahead of sumire (GOAT puzzler) on 1k 101weiqi leaderboard (09.04.2025)
+    - 10/10 on all 101weiqi skill tests up to and including 5d, first 15x exactly 50% passrate (intentional) and misc goproblems accomplishments
     - technically placed ahead of michael chen, jeremy chiu and alan huang in gotham spring tournament 2026 Open division
     - played well enough in an irl tournament game that my 7d opponent accused me of using 'advanced technology' and asked to inspect my glasses (one of only two cases i'm aware of in the history of the american go scene)
-    - 101weiqi 15x exactly 50% and misc goproblems accomplishments 
     - mostly self taught, here somehow despite lack of typical hs or uni or go school experience
 - advice
     - cs resources:
