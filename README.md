@@ -4,8 +4,8 @@ i am currently working as a swe!
     -  days: 11
     -  go games studied: 10.15
     -  hp: -11.85
-    -  exempt days: 4
-        -  sick/medical: 08/12
+    -  exempt days: 5
+        -  sick/medical: 08/12, 08/13
         -  travel to go tournament:
         -  go tournament:
             - self-paired rated league: 08/02, 08/09, 08/11
