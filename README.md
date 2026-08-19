@@ -1,9 +1,9 @@
 i am currently working as a swe!
 
 -  out of gratitude, for each day of this life i have been given, i will study 2 go games. (07.29.2026-)
-    -  days: 15
-    -  go games studied: 12.54
-    -  hp: -17.46
+    -  days: 16
+    -  go games studied: 13
+    -  hp: -19
     -  exempt days: 5
         -  sick/medical: 08/12, 08/13
         -  travel to go tournament:
