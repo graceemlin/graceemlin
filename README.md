@@ -4,11 +4,11 @@ i am currently working as a swe!
     -  days: 20
     -  go games studied: 15.07
     -  hp: -24.94
-    -  exempt days: 8
+    -  exempt days: 9
         -  sick/medical: 08/[12|13]
         -  travel to go tournament:
         -  go tournament:
-            - self-paired rated league: 08/[02|09|11|21|24|26]
+            - self-paired rated league: 08/[02|09|11|20|23|25|26]
 -  legacy and fun facts
     - 63 3-min goproblems rush (03.17.2024)
     - 4d 101weiqi leaderboard (03.21.2024)
