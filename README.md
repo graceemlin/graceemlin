@@ -4,7 +4,7 @@ i am currently working as a swe!
     -  days: 22
     -  go games studied: 16
     -  hp: -28
-    -  exempt days: 9
+    -  exempt days: 10
         -  sick/medical: 08/[12|13|30]
         -  travel to go tournament:
         -  go tournament:
